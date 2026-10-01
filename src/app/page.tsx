@@ -181,7 +181,8 @@ export default function HomePage() {
     "@type": "Product",
     name: "Abrasp IPTV",
     description: "Serviço de IPTV com transmissão estável em HD, Full HD e 4K, suporte humano no WhatsApp e planos sem fidelidade.",
-    brand: { "@id": "https://abrasp.com.br/#organization" },
+    image: ["https://abrasp.com.br/images/sala-sofa.webp"],
+    brand: { "@type": "Brand", name: "Abrasp" },
     aggregateRating: {
       "@type": "AggregateRating",
       ratingValue: "4.9",
