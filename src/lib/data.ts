@@ -1,6 +1,6 @@
 export const SITE_URL = "https://abrasp.com.br";
 export const SITE_NAME = "Abrasp IPTV";
-export const WHATSAPP_NUMBER = "5511950599356";
+export const WHATSAPP_NUMBER = "5589981463863";
 export const CONTACT_EMAIL = "contato@abrasp.com.br";
 export const GA_MEASUREMENT_ID = "G-JJK0NWX4DS";
 
